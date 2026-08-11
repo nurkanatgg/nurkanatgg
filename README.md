@@ -31,4 +31,3 @@ utilities to cloud-native infrastructure.
 
 - **[arp-spoofing-detector-rs](https://github.com/tuchaVshortah/arp-spoofing-detector-rs)** — an ARP spoofing detection utility written in Rust
 - **[puff](https://github.com/tuchaVshortah/puff)** — a passive subdomain enumeration tool
-- **[open-kubernetes-enterprise-architecture](https://github.com/tuchaVshortah/open-kubernetes-enterprise-architecture)** — exploring enterprise architecture on Kubernetes as a cloud-native backbone
