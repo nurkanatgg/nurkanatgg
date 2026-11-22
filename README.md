@@ -9,7 +9,7 @@ and Python.
 - 🔐 Ran on-premise evaluations of two Kubernetes security platforms (Luntry, Aqua Security) end to end for a production bank environment
 - 🔑 HashiCorp Vault, PKI, SAST wired into CI/CD, and hands-on DevOps hardening enterprise infrastructure
 - 📄 IEEE-indexed research (ICECCO 2026) on grounding LLM agents in knowledge graphs — [ORCID](https://orcid.org/0009-0000-8386-4960)
-- 🌐 Portfolio: **[nurkanatb.kz](https://nurkanatb.kz)** · LinkedIn: **[nurkanat-baisenkul](https://www.linkedin.com/in/nurkanat-baisenkul/)**
+- 🌐 Portfolio: **[nurkanat.gg](https://nurkanat.gg)** · LinkedIn: **[nurkanatgg](https://www.linkedin.com/in/nurkanatgg/)**
 
 ## Tech Stack
 
