@@ -33,7 +33,7 @@ and Python.
 
 ## Featured Projects
 
-- **[arp-spoofing-detector-rs](https://github.com/tuchaVshortah/arp-spoofing-detector-rs)** — ARP-spoofing detection for corporate networks, in Rust, packaged as a Windows service
-- **[passwordcheck](https://github.com/tuchaVshortah/passwordcheck)** — a PostgreSQL `passwordcheck` module enforcing configurable password policies, in C
-- **[puff](https://github.com/tuchaVshortah/puff)** — passive subdomain enumeration for reconnaissance, in Python
-- **[financial-kg-agent](https://github.com/tuchaVshortah/financial-kg-agent)** — an LLM agent that grounds financial-transaction queries in an RDF knowledge graph over SPARQL, with compliance guardrails against reasoning from incomplete data — the implementation behind the IEEE paper above
+- **[arp-spoofing-detector-rs](https://github.com/nurkanatgg/arp-spoofing-detector-rs)** — ARP-spoofing detection for corporate networks, in Rust, packaged as a Windows service
+- **[passwordcheck](https://github.com/nurkanatgg/passwordcheck)** — a PostgreSQL `passwordcheck` module enforcing configurable password policies, in C
+- **[puff](https://github.com/nurkanatgg/puff)** — passive subdomain enumeration for reconnaissance, in Python
+- **[financial-kg-agent](https://github.com/nurkanatgg/financial-kg-agent)** — an LLM agent that grounds financial-transaction queries in an RDF knowledge graph over SPARQL, with compliance guardrails against reasoning from incomplete data — the implementation behind the IEEE paper above
